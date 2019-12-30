@@ -9,7 +9,7 @@ a = 'XYZ'
 print(b)
 #  将ABC指向了a    b也指向了ABC ， 这时a又被赋值， 但是b不变
 10//3 # =3 的整数除法
-
+str(1)
 str_a='asdf'
 len(str_a) # 多少个字符
 
