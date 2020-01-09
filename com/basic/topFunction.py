@@ -75,8 +75,6 @@ import functools
 int2=functools.partial(int ,base=2)
 int2('10001010')
 
-
-import com.zcool
 __xx=2# private的
 
 
